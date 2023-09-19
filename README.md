@@ -1,5 +1,7 @@
 # Prova - Desenvolvimento de uma API com Banco de Dados
 
+Disciplina: Padrões de Projeto, Frameworks e APIs
+Professor: Willian Oizumi
 Desenvolvido por Bruno Vigo
 
 Objetivo: Realizar a implementação de uma API básica em Spring Boot com banco de dados MySQL ou HSQLDB. 
